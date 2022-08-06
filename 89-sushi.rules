@@ -1,0 +1,3 @@
+#rules for ddsc
+
+KERNEL=="ddsc0",SUBSYSTEM=="ddsc",ACTION=="add",MODE="0666"
